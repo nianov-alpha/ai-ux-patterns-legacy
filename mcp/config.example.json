@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ai-ux": {
+      "command": "python",
+      "args": [
+        "/ABSOLUTE/PATH/TO/ai-ux-patterns/mcp/server.py"
+      ]
+    }
+  }
+}
