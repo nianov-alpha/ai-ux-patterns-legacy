@@ -1,3 +1,6 @@
+> ⚠️ **Archived.** Development moved to
+> **[ai-ux-patterns](https://github.com/nianov-alpha/ai-ux-patterns)** — now 226 patterns
+> across 28 categories, including geoscience & mining and industrial sales verticals.
 # ai-ux — AI-Native Interface Patterns
 
 A free, open-source, **searchable database of 100 UX patterns for AI products** —
